@@ -1,0 +1,17 @@
+.container {
+margin-top: 300px;
+  width: 100%;
+  height:300px;
+  /* background-color: orange; */
+
+}
+.item {
+float: left;
+  width: 20%;
+  height:100%;
+  background-color:#f9f9fd;
+margin-left: 4%;
+}
+.imge {
+  margin-top: 20%;
+}

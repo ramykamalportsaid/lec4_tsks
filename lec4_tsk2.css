@@ -1,0 +1,35 @@
+.main {
+margin-top: 100px;
+
+width: 100%;
+height: 600px;
+  background-color:inherit;
+}
+
+.pic {
+float: left;
+margin-left: 100px;
+ width: 600px;
+height: 600px;
+background-color: inherit;
+
+}
+.content {
+margin-top: 100px;
+  margin-left: 20px;
+}
+.txt {
+  font-size: 36px;
+}
+.bton {
+
+  width: 150px;
+  height: 50px;
+  background-color: #4458dc;
+  font-size: 30px;
+  color: white;
+
+}
+.bakg {
+background-image: url("body-bg.png");
+}
